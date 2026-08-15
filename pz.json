@@ -12,17 +12,6 @@
       "indexs": 1
     },
     {
-      "key": "csp_ff",
-      "name": "非凡",
-      "type": 1,
-      "api": "http://new.ffzyapi8.com/api.php/provide/vod/from/ffm3u8/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
-    {
       "key": "csp_yz",
       "name": "优质",
       "type": 1,
